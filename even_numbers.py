@@ -1,0 +1,6 @@
+even_numbers = list(range(2, 11, 2))
+print(even_numbers)
+Three_numbers = list(range(0, 30, 3))
+print(even_numbers)
+Multiple_5=list(range(15, 100, 5))
+print(Multiple_5)
